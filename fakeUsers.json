@@ -1,0 +1,156 @@
+[
+  {
+    "email": "nicolas.jones@fakeuser.com",
+    "username": "Nicolas Jones",
+    "password": "Nicolas@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "ragnar@fakeuser.com",
+    "username": "Ragnar Lord Dog",
+    "password": "Ragnar@1234",
+    "image": "https://t3.ftcdn.net/jpg/05/73/38/00/360_F_573380050_evrQWo3P2M0M1FV6bFzlt69tI8214GwH.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "benjamin.poulsen@fakeuser.com",
+    "username": "Benjamin Poulsen",
+    "password": "Benjamin@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "ilonka.scholten@fakeuser.com",
+    "username": "Ilonka Scholten",
+    "password": "Ilonka@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/36.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "adam.zekić@fakeuser.com",
+    "username": "Adam Zekić",
+    "password": "Adam@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "eduardo.soto@fakeuser.com",
+    "username": "Eduardo Soto",
+    "password": "Eduardo@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/1.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "paloma.da paz@fakeuser.com",
+    "username": "Paloma da Paz",
+    "password": "Paloma@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "elif.gerard@fakeuser.com",
+    "username": "Elif Gerard",
+    "password": "Elif@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/57.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "hedvig.skarstein@fakeuser.com",
+    "username": "Hedvig Skarstein",
+    "password": "Hedvig@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "julia.denis@fakeuser.com",
+    "username": "Julia Denis",
+    "password": "Julia@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/90.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "alfred.austin@fakeuser.com",
+    "username": "Alfred Austin",
+    "password": "Alfred@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "mia.bell@fakeuser.com",
+    "username": "Mia Bell",
+    "password": "Mia@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/81.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "gregory.caron@fakeuser.com",
+    "username": "Gregory Caron",
+    "password": "Gregory@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "numan.overwater@fakeuser.com",
+    "username": "Numan Overwater",
+    "password": "Numan@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "matilde.bugten@fakeuser.com",
+    "username": "Matilde Bugten",
+    "password": "Matilde@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/81.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "alicia.bonnet@fakeuser.com",
+    "username": "Alicia Bonnet",
+    "password": "Alicia@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/90.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "آریا.جعفری@fakeuser.com",
+    "username": "آریا جعفری",
+    "password": "آریا@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "harper.king@fakeuser.com",
+    "username": "Harper King",
+    "password": "Harper@1234",
+    "image": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "miodrag.radovanović@fakeuser.com",
+    "username": "Miodrag Radovanović",
+    "password": "Miodrag@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "ümit.kahveci@fakeuser.com",
+    "username": "Ümit Kahveci",
+    "password": "Ümit@1234",
+    "image": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "isFakeUser": true
+  },
+  {
+    "email": "rob@realuser.com",
+    "username": "Rob",
+    "password": "Rob@1234",
+    "image": "https://avatars.githubusercontent.com/u/84008858?v=4",
+    "isFakeUser": false
+  },
+  {
+    "email": "fab@realuser.com",
+    "username": "Fab",
+    "password": "Fab@1234",
+    "image": "https://avatars.githubusercontent.com/u/104376512?v=4",
+    "isFakeUser": true
+  }
+]
